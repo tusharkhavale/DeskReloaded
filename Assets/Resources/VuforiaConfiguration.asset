@@ -15,7 +15,7 @@ MonoBehaviour:
     vuforiaLicenseKey: AfibIR//////AAAAGatRJRbibUM0nb0sUGI3cEE85uKTe3vtI3hiNm82WiMQmFxx9DVx8zbqm71X4d90ntP+Pr1rexpgvTCgt4n/eY9UBdFWL5BnnKK/O4uXJ0FAkYtPUs9flXJRPElCOcMSWaXlX/OrrzvMWQzV6RmwBy67CEQiCyS3ge/bl2BBq3Kvw/Z4J9BI4DeyLtK9g166XeJxgPsjCyyp44hmTJeBxOMmRBcltZZMB/gVRvraQHB9vLyHdoQi7GzQkApCSBoP+DXbpMpHN14sMS7UVuEPW6mBpoPn/1g9zyp3nZq38nXKlQGpS74UoR0Q/+Zr5DDaizGyXagfX/tsBKt4TdeIl8g3EiIIlbBhXXizpKA3L9o2
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
-    maxSimultaneousImageTargets: 1
+    maxSimultaneousImageTargets: 5
     maxSimultaneousObjectTargets: 1
     useDelayedLoadingObjectTargets: 0
     cameraDirection: 0
